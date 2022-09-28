@@ -260,7 +260,6 @@
                                 <excludes>
                                     <exclude>*:*:*:sources</exclude>
                                     <exclude>${project.groupId}:${project.artifactId}:*:sources</exclude>
-                                    <exclude>org.apache.logging.log4j:*</exclude>
                                 </excludes>
                             </artifactSet>
                             <filters>
